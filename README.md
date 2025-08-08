@@ -2,6 +2,7 @@
 Repository of completed assignments, activities and exercises under Project SPARTA for Data Science.
 
 Files:
+
 1 - Viz_HR.xlsx  //  Visualization exercise for dashboard of data analysis on data set of HR;
 
 2 - QRCode_Marketing.xlsx  //  Data set used for dashboard activity;
